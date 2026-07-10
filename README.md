@@ -4,7 +4,7 @@
 ![Scripts](https://img.shields.io/badge/Scripts-51-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A structured collection of SQL practice scripts covering database fundamentals, joins, functions, subqueries, views, stored procedures, triggers, transactions, and interview-oriented queries.
+A structured collection of SQL practice scripts covering database fundamentals, joins, functions, subqueries, views, stored procedures, triggers, transactions, and interview-oriented queries using a common sample database.
 
 📌 **Contains 51 well-organized SQL scripts across 11 modules**, designed for learning, revision, and technical interview preparation.
 
@@ -86,11 +86,13 @@ This repository documents my SQL learning journey and serves as a structured ref
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Dinesh Kumar G**
-- GitHub: [@dineshkumarg5](https://github.com/dineshkumarg5)
-- Email: dinesh369.official@gmail.com
+
+- 📧 dinesh369.official@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/dineshkumarg5](https://linkedin.com/in/dineshkumarg5)
+- 🐙 GitHub: [github.com/dineshkumarg5](https://github.com/dineshkumarg5)
 
 ---
 
